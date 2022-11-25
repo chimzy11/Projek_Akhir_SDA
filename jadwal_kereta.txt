@@ -1,0 +1,6 @@
+Kacans,Bengalon,Sangatta,23.57,124,120000
+Finder,Tenggarong,Balikpapan,19,45,50000
+Finder,Anggana,Marangkayu,11.3,95,100000
+Chmzy,Balikpapan,Samarinda,12.39,120,80000
+Chmzy,Berau,Bontang,12.45,250,200000
+Kacans,Kota Bangun,Samarinda,15.12,150,150000

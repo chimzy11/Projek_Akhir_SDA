@@ -1,0 +1,3 @@
+Rismayanti,KTP,1234567891234567,Perempuan,20,85281877361,chmrss,12345678
+Kania Putri Ananda,Passport,1234567,Perempuan,20,85281877461,kanandap,12345678
+Nurmedina Maulidiah,Passport,1234567,Perempuan,20,85281877461,dinamauldh,12345678
